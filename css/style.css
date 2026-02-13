@@ -1,0 +1,24 @@
+/* FONTES */
+
+/* CONFIG GERAL */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* VARIÁVEIS DE CORES E FONTES */
+:root{
+    --principal: #fff;
+    --secundaria: #fff;
+    --detalhe: #fff;
+    --font-title: arial,sans-serif;
+    --font-text: arial,sans-serif;
+}
+
+/* MOBILE FIRST */
+@media(min-width:300px) and (max-width:756px){
+
+}
+
+/* DESKTOP */
